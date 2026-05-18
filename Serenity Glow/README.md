@@ -6,6 +6,17 @@ A professional, conversion-optimized website for a luxury beauty salon and welln
 
 This is a **complete website redesign** focused on **lead generation** and **conversion optimization** for a local beauty salon/spa business. The design demonstrates real-world UX principles used by professional agencies to drive business results.
 
+## 🖼️ Design Preview
+
+### 🏠 Homepage
+![Homepage](design/homepage.png)
+
+### 💇 Services Page
+![Services](design/service-page.png)
+
+### 📞 Bookings Page
+![Book](design/booking-page.png)
+
 ## 📋 Features
 
 ### Core Pages
