@@ -6,6 +6,11 @@ A professional, conversion-optimized website for a luxury beauty salon and welln
 
 This is a **complete website redesign** focused on **lead generation** and **conversion optimization** for a local beauty salon/spa business. The design demonstrates real-world UX principles used by professional agencies to drive business results.
 
+## 🎨 Figma Design
+
+View full design here:
+[[Figma Design link](https://wonder-memory-07260118.figma.site/)]
+
 ## 🖼️ Design Preview
 
 ### 🏠 Homepage
